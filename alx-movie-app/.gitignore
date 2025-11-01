@@ -2,6 +2,11 @@
 
 # dependencies
 /node_modules
+/.next
+dist/
+coverage/
+*.log
+.env
 /.pnp
 .pnp.*
 .yarn/*
